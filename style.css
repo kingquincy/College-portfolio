@@ -1,0 +1,218 @@
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	height: 100%;
+	margin: 0px;
+}
+
+.home {
+	border: #414141 20px double;
+}
+
+.crownhome {
+	width: 12%;
+	position: absolute;
+	top: 22%;
+	left: 44%;
+}
+
+.title {
+	font-family: 'Fredericka the Great';
+	font-weight: 600;
+	font-size: 4vw;
+	color: black;
+	text-transform: uppercase;
+	position: absolute;
+	top: 40%;
+	left: 28%;
+}
+
+hr {
+	margin-top: 5px;
+	width: 90%;
+}
+
+.profile {
+	width: 70%;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 5px 15px gray;
+}
+
+.nav a {
+	color: black;
+	text-decoration: none;
+	font-family: 'Fredericka the Great';
+	font-weight: 200;
+	text-transform: uppercase;
+	font-size: 2.3vw;
+}
+
+.nav a:hover {
+	font-weight: 600;
+	text-shadow: 0 0 3px gray;
+}
+
+.nav .audio {
+	position: absolute;
+	top: 61%;
+	left: 9%;
+}
+
+.nav .photo {
+	position: absolute;
+	top: 61%;
+	left: 30%;
+}
+
+.nav .vid {
+	position: absolute;
+	top: 61%;
+	left: 20%;
+}
+
+.nav .graph {
+	position: absolute;
+	top: 61%;
+	left: 51%;
+}
+
+.nav .ess {
+	position: absolute;
+	top: 61%;
+	left: 75%;
+}
+
+.nav .bio {
+	position: absolute;
+	top: 61%;
+	left: 86%;
+}
+
+.head {
+	font-family: 'Fredericka the Great';
+	text-align: center;
+}
+
+.topnav {
+	background-color: white;
+	padding: 2px;
+	padding-bottom: 12px;
+	text-align: center;
+	border-style: none none solid none;
+	border-width: 1px;
+	border-color: black;
+	font-size: 15px;
+	font-family: 'Cormorant Garamond';
+}
+
+.topnav a {
+	text-decoration: none;
+	color: black;
+	margin: 8px;
+}
+
+.topnav a:hover {
+	font-weight: 700;
+	text-shadow: 0 0 2px gray;
+}
+
+.active {
+	font-weight: 700;
+}
+
+.crown {
+	width: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-bottom: -17px;
+	margin-top: 10px;
+}
+
+.clip {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.top {
+	text-align: center;
+	font-family: 'Fredericka the Great';
+	font-size: 44px;
+	font-weight: 100;
+}
+
+.name {
+	font-weight: 100;
+	text-align: center;
+	font-family: 'Cormorant Garamond';
+}
+
+p {
+	font-weight: 100;
+	text-align: center;
+	font-family: 'Cormorant Garamond';
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 30px;
+	margin-bottom: 35px;
+	font-size: 19px;
+}
+
+.under {
+	width: 40%;
+}
+
+.under1 {
+	width: 25%;
+}
+
+.video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.clones {
+	width: 21%;
+	margin: 4px;
+}
+
+.footer {
+	font-size: 10px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.imgs {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.word {
+	width: 28%;
+	margin: 7px;
+}
+
+.graphics {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.poster {
+	width: 29%;
+	margin: 7px;
+}
+
+.project {
+	text-align: center;
+}
